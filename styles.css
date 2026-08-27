@@ -375,3 +375,44 @@
     margin-top:28px;
   }
 }
+
+/* DELIVERY-READY-20260827 */
+.hero-media{
+  background-image:url("./assets/hero-transfer-executivo.webp?v=20260827-opt");
+}
+
+.review-score{
+  box-sizing:border-box;
+  padding:24px;
+  text-align:center;
+}
+
+.review-score .review-word{
+  display:block;
+  text-align:center;
+}
+
+.review-score .review-stars{
+  margin-top:14px;
+  line-height:1;
+  text-align:center;
+}
+
+.review-score p{
+  width:min(100%,172px);
+  margin:11px auto 0;
+  line-height:1.45;
+  text-align:center;
+  text-wrap:balance;
+}
+
+.site-credit a:focus-visible{
+  outline:2px solid var(--gold-light);
+  outline-offset:4px;
+}
+
+@media(max-width:640px){
+  .hero-media{
+    background-image:url("./assets/hero-transfer-executivo-mobile.webp?v=20260827-opt");
+  }
+}
