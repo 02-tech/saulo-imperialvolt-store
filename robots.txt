@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://saulo.imperialvolt.store/sitemap.xml
+Sitemap: https://transfer-executivo-itaipava.transfersauloexecutivoitaipava.workers.dev/sitemap.xml
