@@ -447,15 +447,6 @@
   font-size:12px;
 }
 
-.legal-pending{
-  background:#f8f6f1;
-  border:1px solid var(--line);
-  border-radius:6px;
-  padding:14px 18px;
-  color:var(--muted);
-  font-size:13px;
-}
-
 @media(max-width:640px){
   .legal-page{
     padding-top:110px;
