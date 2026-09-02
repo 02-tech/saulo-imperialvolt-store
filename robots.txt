@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://transfer-executivo-itaipava.transferexecutivo.workers.dev/sitemap.xml
+Sitemap: https://itaipava.transferexecutivo.workers.dev/sitemap.xml
